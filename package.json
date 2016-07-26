@@ -1,0 +1,14 @@
+{
+  "name": "apexsiam-houserama-scraper",
+  "version": "0.0.1",
+  "description": "Simple web crawler for two Thai arthouse cinema website apexsiam-square and houserama written in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.3"
+  }
+}
